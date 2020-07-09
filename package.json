@@ -1,0 +1,31 @@
+{
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "pug": "^3.0.0",
+    "sass": "^1.26.10"
+  },
+  "name": "css-ticket",
+  "version": "1.0.0",
+  "description": "Pure CSS (SCSS) version of Indian Railway Ticket",
+  "dependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "parcel src/index.pug src/printed.pug"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frunkad/css-ticket.git"
+  },
+  "keywords": [
+    "css",
+    "scss",
+    "train",
+    "ticket"
+  ],
+  "author": "Darshan Baid (@frunkad)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frunkad/css-ticket/issues"
+  },
+  "homepage": "https://github.com/frunkad/css-ticket#readme"
+}
